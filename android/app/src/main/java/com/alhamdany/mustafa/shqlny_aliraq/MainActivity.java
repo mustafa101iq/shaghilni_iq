@@ -1,0 +1,6 @@
+package com.alhamdany.mustafa.shqlny_aliraq;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}

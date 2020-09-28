@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270885602574",
+    "firebase_url": "https://shaghilni-iq.firebaseio.com",
+    "project_id": "shaghilni-iq",
+    "storage_bucket": "shaghilni-iq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270885602574:android:0416e463c2468bdaccc35f",
+        "android_client_info": {
+          "package_name": "com.alhamdany.mustafa.shqlny_aliraq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270885602574-ub4dk38dkj5vo7hlt6thrqqt674e2l7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUETO8H81TZ6j14YAiBjDAAuq_6IEBfrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270885602574-ub4dk38dkj5vo7hlt6thrqqt674e2l7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
